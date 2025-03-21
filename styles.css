@@ -1,0 +1,45 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+.dashboard-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.dashboard-title {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.chart-container {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 22px;
+  margin-top: 20px;
+  color: #333;
+}
+
+.loading {
+  font-size: 24px;
+  font-weight: bold;
+  color: #007bff;
+}
