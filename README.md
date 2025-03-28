@@ -1,7 +1,7 @@
-# Blackcoffer Data Visualization Dashboard
+# Data Visualization Dashboard
 
 ## 📌 Project Overview
-This project is a **Data Visualization Dashboard** built for Blackcoffer's test assignment. It visualizes data from a JSON dataset using interactive charts, graphs, and multiple filters. The dashboard allows users to explore insights on various parameters such as **intensity, likelihood, relevance, country, topics, region, city**, and more.
+This project is a **Data Visualization Dashboard** built for a test assignment. It visualizes data from a JSON dataset using interactive charts, graphs, and multiple filters. The dashboard allows users to explore insights on various parameters such as **intensity, likelihood, relevance, country, topics, region, city**, and more.
 
 ## 🔗 Deployment Links
 - **Backend API (Flask - Render)**: [Blackcoffer API](https://blackcoffer-api-gi84.onrender.com)
@@ -56,7 +56,7 @@ This project is a **Data Visualization Dashboard** built for Blackcoffer's test 
 ### 1️⃣ Backend (Flask API)
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/blackcoffer-dashboard.git
+git clone https://github.com/rishi02102017/blackcoffer-dashboard.git
 cd backend
 
 # Install dependencies
